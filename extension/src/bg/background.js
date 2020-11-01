@@ -1,5 +1,6 @@
 window.servers = [
   // "beta.meet.jit.si",
+  "musjitsi.duckdns.org",
   "meet.jit.si",
   "8x8.vc",
   "jitsi.riot.im",
