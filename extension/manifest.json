@@ -24,7 +24,7 @@
   "content_scripts": [
     {
       "matches": [
-        "https://musjitsi.duckdns.org/*",
+        "https://jitsimus.duckdns.org/*",
 		"https://meet.jit.si/*",
         "https://8x8.vc/*",
         "https://jitsi.riot.im/*"
